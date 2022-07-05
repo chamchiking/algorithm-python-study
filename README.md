@@ -7,7 +7,7 @@
 | 주차 |  문제 |
 |--|--|
 |1주차 |leetcode 1379, 1451 <br>프로그래머스 해시 4문제, 스택 큐 4문제
-|2주차 |leetcode <br>프로그래머스 힙(Heap) 3문제
+|2주차 |leetcode 1144, 558, 91 <br>프로그래머스 힙(Heap) 3문제
 |3주차 |leetcode <br>프로그래머스 정렬 3문제
 |4주차 |leetcode <br>프로그래머스 완전탐색 3문제
 |5주차 |leetcode <br>프로그래머스 탐욕법(Greedy) 6문제
